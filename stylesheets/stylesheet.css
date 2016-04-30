@@ -56,9 +56,9 @@ body {
   color: #FFFFFF;
   background-color: #1A2331;
   background-repeat: no-repeat;
-  background-image: url("../images/412184_10150850595762968_1970783967_o.jpg");
+  background-image: url(\"../images/412184_10150850595762968_1970783967_o.jpg\");
   font-size: 20px;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: \"HelveticaNeue-Light\", \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif; 
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color: white;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: \"HelveticaNeue-Light\", \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif; 
   letter-spacing: -1px;
 }
 
@@ -162,7 +162,7 @@ pre, code {
   width: 100%;
   color: #222;
 
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: \"HelveticaNeue-Light\", \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif; 
   font-size: 14px;
 
   border-radius: 2px;
@@ -247,7 +247,7 @@ table {
  }
 
 th {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: \"HelveticaNeue-Light\", \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif; 
   padding: 10px;
   background: #373737;
   color: #fff;
@@ -325,7 +325,7 @@ ul.page-list{
 .page-list li{
   display: inline-block;
   padding: 23px;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: \"HelveticaNeue-Light\", \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif; 
   font-size: 50px;
 }
 
